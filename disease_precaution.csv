@@ -40,3 +40,143 @@ Pneumonia,consult doctor,medication,rest,follow up
 Arthritis,exercise,use hot and cold therapy,try acupuncture,massage
 Gastroenteritis,stop eating solid food for while,try taking small sips of water,rest,ease back into eating
 Tuberculosis,cover mouth,consult doctor,medication,rest
+Accident Cerebrovascular,call ambulance,physical therapy,blood thinners,lifestyle changes
+Acquired Immuno-Deficiency Syndrome,antiretroviral therapy,prevent infections,consult doctor,healthy diet
+Adenocarcinoma,consult oncologist,surgery,chemotherapy,radiation therapy
+Adhesion,laparoscopic surgery,pain management,physical therapy,consult doctor
+Affect Labile,mood stabilizers,psychotherapy,counseling,stress management
+Alzheimer'S Disease,memory care,medication,safe environment,cognitive stimulation
+Anemia,iron supplements,vitamin b12,rich diet,treat underlying cause
+Anxiety State,cognitive behavioral therapy,meditation,exercise,anti-anxiety medication
+Aphasia,speech therapy,communication aids,patience,practice speaking
+Asthma,use inhaler,avoid triggers,breathing exercises,regular checkups
+Bacteremia,antibiotics,hospitalization,iv fluids,monitor vitals
+Benign Prostatic Hypertrophy,medication,surgery,lifestyle changes,limit caffeine
+Biliary Calculus,cholecystectomy,pain medication,low fat diet,lithotripsy
+Bipolar Disorder,mood stabilizers,psychotherapy,routine schedule,avoid alcohol
+Bronchitis,stay hydrated,rest,humidifier,cough suppressants
+Candidiasis,antifungal medication,keep area dry,hygiene,probiotics
+Carcinoma,oncology consult,surgery,chemotherapy,radiation
+Carcinoma Breast,mastectomy,chemotherapy,radiation,hormone therapy
+Carcinoma Colon,colectomy,chemotherapy,radiation,stoma care
+Carcinoma Of Lung,surgery,chemotherapy,radiation,immunotherapy
+Carcinoma Prostate,prostatectomy,hormone therapy,radiation,monitoring
+Cardiomyopathy,medication,implantable devices,heart transplant,lifestyle changes
+Cellulitis,antibiotics,elevate limb,pain relief,wound care
+Cholecystitis,fasting,iv fluids,antibiotics,gallbladder removal
+Cholelithiasis,low fat diet,pain management,surgery,medication
+Chronic Alcoholic Intoxication,detoxification,rehabilitation,counseling,vitamin supplements
+Chronic Kidney Failure,dialysis,kidney transplant,low protein diet,control blood pressure
+Chronic Obstructive Airway Disease,quit smoking,inhalers,oxygen therapy,pulmonary rehab
+Cirrhosis,avoid alcohol,low sodium diet,liver transplant,medication
+Colitis,anti-inflammatory drugs,dietary changes,surgery,hydration
+Confusion,identify cause,safe environment,reassurance,medical evaluation
+Coronary Arteriosclerosis,lifestyle changes,statins,angioplasty,bypass surgery
+Coronary Heart Disease,healthy diet,exercise,quit smoking,medication
+Decubitus Ulcer,repositioning,wound care,special mattress,nutrition
+Deep Vein Thrombosis,blood thinners,compression stockings,elevation,movement
+Degenerative Polyarthritis,pain medication,physical therapy,exercise,weight management
+Deglutition Disorder,swallow therapy,dietary modification,feeding tube,postural changes
+Dehydration,rehydration salts,drink water,iv fluids,rest
+Delirium,treat underlying cause,calm environment,reorientation,medication
+Delusion,antipsychotics,psychotherapy,supportive care,safety
+Dementia,cognitive therapy,safe environment,routine,medication
+Dependence,rehabilitation,support groups,counseling,detox
+Depression Mental,antidepressants,psychotherapy,exercise,support system
+Depressive Disorder,antidepressants,cbt,mindfulness,lifestyle changes
+Diverticulitis,liquid diet,antibiotics,pain relief,surgery
+Diverticulosis,high fiber diet,hydration,exercise,probiotics
+Edema Pulmonary,diuretics,oxygen therapy,heart medication,elevate head
+Effusion Pericardial,pericardiocentesis,anti-inflammatory meds,treat cause,monitoring
+Embolism Pulmonary,anticoagulants,thrombolytics,oxygen,hospitalization
+Emphysema Pulmonary,bronchodilators,steroids,oxygen therapy,stop smoking
+Encephalopathy,treat underlying cause,symptom management,supportive care,medication
+Endocarditis,iv antibiotics,surgery,dental hygiene,monitoring
+Epilepsy,antiepileptics,avoid triggers,safety precautions,surgery
+Exanthema,antihistamines,calamine lotion,cool bath,hydration
+Failure Heart,diuretics,beta blockers,low salt,fluid restriction
+Failure Heart Congestive,ace inhibitors,diuretics,lifestyle changes,daily weighing
+Failure Kidney,dialysis,diet control,medication,transplant
+Fibroid Tumor,hormonal birth control,surgery,pain relief,monitoring
+Gastritis,antacids,avoid irritants,antibiotics,bland diet
+Gastroesophageal Reflux Disease,avoid triggers,elevate head,antacids,PPIs
+Glaucoma,eye drops,laser surgery,regular exams,avoid eye strain
+Gout,nsaids,colchicine,low purine diet,hydration
+Hemiparesis,physical therapy,occupational therapy,assistive devices,exercise
+Hemorrhoids,fiber diet,sitz bath,topical creams,hydration
+Hepatitis,antivirals,rest,hydration,avoid alcohol
+Hernia,surgery,lifestyle changes,avoid lifting,weight loss
+Hernia Hiatal,small meals,avoid lying down,antacids,surgery
+Hiv,antiretrovirals,regular testing,safe practices,healthy living
+Hiv Infections,art therapy,prevent coinfection,vaccinations,monitor viral load
+Hyperbilirubinemia,phototherapy,hydration,treat cause,monitoring
+Hypercholesterolemia,statins,dietary changes,exercise,weight loss
+Hyperglycemia,insulin,exercise,diet control,hydration
+Hyperlipidemia,low fat diet,statins,exercise,weight control
+Hypertension Pulmonary,vasodilators,oxygen,diuretics,anticoagulants
+Hypertensive Disease,antihypertensives,low sodium,exercise,weight loss
+Ileus,bowel rest,iv fluids,nasogastric tube,surgery
+Incontinence,pelvic exercises,bladder training,medication,surgery
+Infection,antibiotics,rest,fluids,hygiene
+Infection Urinary Tract,antibiotics,cranberry juice,hydration,hygiene
+Influenza,antivirals,rest,fluids,analgesics
+Insufficiency Renal,manage blood pressure,diet,dialysis,medication
+Ischemia,restore blood flow,medication,surgery,lifestyle changes
+Ketoacidosis Diabetic,insulin therapy,fluid replacement,electrolyte replacement,hospitalization
+Kidney Disease,control bp,control blood sugar,diet health,medication
+Kidney Failure Acute,dialysis,fluid management,treat cause,nutritional support
+Lymphatic Diseases,treat infection,massage,compression,medication
+Lymphoma,chemotherapy,radiation,immunotherapy,stem cell transplant
+Malignant Neoplasm Of Breast,lumpectomy,mastectomy,radiation,chemotherapy
+Malignant Neoplasm Of Lung,surgery,radiation,chemotherapy,targeted therapy
+Malignant Neoplasm Of Prostate,active surveillance,surgery,radiation,hormone therapy
+Malignant Neoplasms,cancer treatment,surgery,palliative care,support
+Malignant Tumor Of Colon,colectomy,chemotherapy,radiation,screening
+Manic Disorder,mood stabilizers,antipsychotics,structure,sleep hygiene
+Melanoma,surgical excision,immunotherapy,radiation,chemotherapy
+Migraine Disorders,triptans,rest,dark room,avoid triggers
+Mitral Valve Insufficiency,medication,valve repair,valve replacement,monitor
+Myocardial Infarction,aspirin,nitroglycerin,angioplasty,rehab
+Neoplasm,biopsy,surgery,chemotherapy,radiation
+Neoplasm Metastasis,systemic therapy,palliative care,pain management,radiation
+Neuropathy,pain relievers,control blood sugar,lifestyle changes,supplements
+Neutropenia,antibiotics,growth factors,hygiene,isolation
+Obesity,diet plan,exercise regimen,behavioral therapy,bariatric surgery
+Obesity Morbid,bariatric surgery,medical weight loss,dietitian consult,exercise
+Oral Candidiasis,antifungal mouthwash,good oral hygiene,probiotics,limit sugar
+Osteomyelitis,iv antibiotics,surgery,drainage,hyperbaric oxygen
+Osteoporosis,calcium,vitamin d,bisphosphonates,weight bearing exercise
+Overload Fluid,diuretics,fluid restriction,sodium restriction,monitoring
+Pancreatitis,fasting,iv fluids,pain killers,enzyme supplements
+Pancytopenia,transfusion,bone marrow stimulant,immunosuppressants,treat cause
+Paranoia,cbt,antipsychotics,trust building,reduce stress
+Parkinson Disease,levodopa,physical therapy,exercise,deep brain stimulation
+Paroxysmal Dyspnea,elevate head,diuretics,oxygen,treat heart failure
+Pericardial Effusion Body Substance,drainage,medication,treat cause,monitoring
+Peripheral Vascular Disease,exercise,quit smoking,medication,angioplasty
+Personality Disorder,psychotherapy,dbt,medication,group therapy
+Pneumocystis Carinii Pneumonia,antibiotics,steroids,oxygen,preventive meds
+Pneumonia Aspiration,antibiotics,oxygen,suctioning,swallow eval
+Pneumothorax,chest tube,observation,oxygen,surgery
+Primary Carcinoma Of The Liver Cells,surgery,transplant,ablation,chemoembolization
+Primary Malignant Neoplasm,oncology care,surgery,chemotherapy,radiation
+Psychotic Disorder,antipsychotics,therapy,hospitalization,support
+Pyelonephritis,antibiotics,hydration,pain relief,hospitalization
+Respiratory Failure,mechanical ventilation,oxygen,treat cause,medication
+Schizophrenia,antipsychotics,psychosocial therapy,skills training,support
+Sepsis (Invertebrate),iv antibiotics,fluids,vasopressors,source control
+Septicemia,iv antibiotics,hospitalization,fluids,oxygen
+Sickle Cell Anemia,hydration,pain control,hydroxyurea,blood transfusion
+Spasm Bronchial,bronchodilators,steroids,avoid triggers,oxygen
+Stenosis Aortic Valve,valve replacement,medication,monitoring,avoid strenuous activity
+Suicide Attempt,emergency care,psychiatric eval,safety planning,therapy
+Systemic Infection,antibiotics,iv fluids,rest,monitoring
+Tachycardia Sinus,treat underlying cause,beta blockers,reduce caffeine,stress reduction
+Thrombocytopaenia,steroids,transfusion,avoid injury,medication
+Thrombus,anticoagulants,thrombolytics,surgery,compression
+Tonic-Clonic Epilepsy,antiepileptics,safety first,keto diet,vns
+Tonic-Clonic Seizures,medication,safety,rest,monitor
+Transient Ischemic Attack,antiplatelets,statin,bp control,lifestyle changes
+Tricuspid Valve Insufficiency,diuretics,treat heart failure,surgery,monitoring
+Ulcer Peptic,antibiotics,ppis,antacids,avoid nsaids
+Upper Respiratory Infection,rest,fluids,otc meds,humidifier

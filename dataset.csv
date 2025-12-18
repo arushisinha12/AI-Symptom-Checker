@@ -2138,3 +2138,211 @@ Common Cold,throat sore,100
 Common Cold,snuffle,100
 Influenza,cough,100
 Influenza,cold,100
+(Vertigo) Paroymsal  Positional Vertigo,vertigo,100
+(Vertigo) Paroymsal  Positional Vertigo,nausea,100
+(Vertigo) Paroymsal  Positional Vertigo,vomiting,100
+(Vertigo) Paroymsal  Positional Vertigo,loss of balance,100
+(Vertigo) Paroymsal  Positional Vertigo,headache,100
+(Vertigo) Paroymsal  Positional Vertigo,unsteadiness,100
+Acne,skin rash,100
+Acne,pus filled pimples,100
+Acne,blackheads,100
+Acne,scurring,100
+Acne,redness,100
+Acne,inflammation,100
+Aids,muscle wasting,100
+Aids,patches in throat,100
+Aids,high fever,100
+Aids,extra marital contacts,100
+Aids,weight loss,100
+Aids,fatigue,100
+Alcoholic Hepatitis,abdominal pain,100
+Alcoholic Hepatitis,vomiting,100
+Alcoholic Hepatitis,yellowish skin,100
+Alcoholic Hepatitis,distention of abdomen,100
+Alcoholic Hepatitis,history of alcohol consumption,100
+Alcoholic Hepatitis,fluid overload,100
+Allergy,continuous sneezing,100
+Allergy,shivering,100
+Allergy,chills,100
+Allergy,watering from eyes,100
+Allergy,red spots over body,100
+Allergy,itching,100
+Bronchial Asthma,cough,100
+Bronchial Asthma,high fever,100
+Bronchial Asthma,breathlessness,100
+Bronchial Asthma,family history,100
+Bronchial Asthma,mucoid sputum,100
+Bronchial Asthma,wheezing,100
+Cervical Spondylosis,back pain,100
+Cervical Spondylosis,weakness in limbs,100
+Cervical Spondylosis,neck pain,100
+Cervical Spondylosis,dizziness,100
+Cervical Spondylosis,loss of balance,100
+Chicken Pox,itching,100
+Chicken Pox,skin rash,100
+Chicken Pox,fatigue,100
+Chicken Pox,lethargy,100
+Chicken Pox,high fever,100
+Chicken Pox,red spots over body,100
+Chronic Cholestasis,itching,100
+Chronic Cholestasis,vomiting,100
+Chronic Cholestasis,yellowish skin,100
+Chronic Cholestasis,nausea,100
+Chronic Cholestasis,abdominal pain,100
+Chronic Cholestasis,loss of appetite,100
+Dengue,skin rash,100
+Dengue,chills,100
+Dengue,joint pain,100
+Dengue,vomiting,100
+Dengue,fatigue,100
+Dengue,high fever,100
+Dengue,headache,100
+Dengue,nausea,100
+Dengue,muscle pain,100
+Dimorphic Hemorrhoids(Piles),constipation,100
+Dimorphic Hemorrhoids(Piles),pain during bowel movements,100
+Dimorphic Hemorrhoids(Piles),pain in anal region,100
+Dimorphic Hemorrhoids(Piles),bloody stool,100
+Dimorphic Hemorrhoids(Piles),irritation in anus,100
+Drug Reaction,itching,100
+Drug Reaction,skin rash,100
+Drug Reaction,stomach pain,100
+Drug Reaction,burning micturition,100
+Drug Reaction,spotting urination,100
+Fungal Infection,itching,100
+Fungal Infection,skin rash,100
+Fungal Infection,nodal skin eruptions,100
+Fungal Infection,dischromic patches,100
+Fungal Infection,redness,100
+Gerd,stomach pain,100
+Gerd,acidity,100
+Gerd,ulcers on tongue,100
+Gerd,vomiting,100
+Gerd,cough,100
+Gerd,chest pain,100
+Gerd,burning sensation,100
+Heart Attack,vomiting,100
+Heart Attack,breathlessness,100
+Heart Attack,sweating,100
+Heart Attack,chest pain,100
+Heart Attack,dizziness,100
+Heart Attack,fatigue,100
+Hepatitis A,joint pain,100
+Hepatitis A,vomiting,100
+Hepatitis A,yellowish skin,100
+Hepatitis A,dark urine,100
+Hepatitis A,nausea,100
+Hepatitis A,loss of appetite,100
+Hepatitis A,fever,100
+Hepatitis D,joint pain,100
+Hepatitis D,vomiting,100
+Hepatitis D,fatigue,100
+Hepatitis D,yellowish skin,100
+Hepatitis D,dark urine,100
+Hepatitis D,nausea,100
+Hepatitis D,loss of appetite,100
+Hepatitis D,abdominal pain,100
+Hepatitis E,joint pain,100
+Hepatitis E,vomiting,100
+Hepatitis E,fatigue,100
+Hepatitis E,high fever,100
+Hepatitis E,yellowish skin,100
+Hepatitis E,dark urine,100
+Hepatitis E,nausea,100
+Hepatitis E,abdomen pain,100
+Hypertension,headache,100
+Hypertension,chest pain,100
+Hypertension,dizziness,100
+Hypertension,loss of balance,100
+Hypertension,lack of concentration,100
+Hyperthyroidism,mood swings,100
+Hyperthyroidism,weight loss,100
+Hyperthyroidism,restlessness,100
+Hyperthyroidism,sweating,100
+Hyperthyroidism,diarrhoea,100
+Hyperthyroidism,fast heart rate,100
+Hyperthyroidism,muscle weakness,100
+Impetigo,skin rash,100
+Impetigo,high fever,100
+Impetigo,blister,100
+Impetigo,red sore around nose,100
+Impetigo,yellow crust ooze,100
+Jaundice,itching,100
+Jaundice,vomiting,100
+Jaundice,fatigue,100
+Jaundice,weight loss,100
+Jaundice,high fever,100
+Jaundice,yellowish skin,100
+Jaundice,dark urine,100
+Jaundice,abdominal pain,100
+Malaria,chills,100
+Malaria,vomiting,100
+Malaria,high fever,100
+Malaria,sweating,100
+Malaria,headache,100
+Malaria,nausea,100
+Malaria,muscle pain,100
+Malaria,diarrhoea,100
+Migraine,acidity,100
+Migraine,indigestion,100
+Migraine,headache,100
+Migraine,blurred and distorted vision,100
+Migraine,excessive hunger,100
+Migraine,stiff neck,100
+Migraine,depression,100
+Migraine,irritability,100
+Osteoarthristis,joint pain,100
+Osteoarthristis,neck pain,100
+Osteoarthristis,knee pain,100
+Osteoarthristis,hip joint pain,100
+Osteoarthristis,swelling joints,100
+Osteoarthristis,painful walking,100
+Paralysis (Brain Hemorrhage),vomiting,100
+Paralysis (Brain Hemorrhage),headache,100
+Paralysis (Brain Hemorrhage),weakness of one body side,100
+Paralysis (Brain Hemorrhage),altered sensorium,100
+Peptic Ulcer Diseae,vomiting,100
+Peptic Ulcer Diseae,loss of appetite,100
+Peptic Ulcer Diseae,abdominal pain,100
+Peptic Ulcer Diseae,passage of gases,100
+Peptic Ulcer Diseae,internal itching,100
+Peptic Ulcer Diseae,indigestion,100
+Psoriasis,skin rash,100
+Psoriasis,joint pain,100
+Psoriasis,skin peeling,100
+Psoriasis,silver like dusting,100
+Psoriasis,small dents in nails,100
+Psoriasis,inflammatory nails,100
+Tuberculosis,chills,100
+Tuberculosis,vomiting,100
+Tuberculosis,fatigue,100
+Tuberculosis,weight loss,100
+Tuberculosis,cough,100
+Tuberculosis,high fever,100
+Tuberculosis,breathlessness,100
+Tuberculosis,sweating,100
+Tuberculosis,phlegm,100
+Tuberculosis,blood in sputum,100
+Tuberculosis,chest pain,100
+Typhoid,chills,100
+Typhoid,vomiting,100
+Typhoid,fatigue,100
+Typhoid,high fever,100
+Typhoid,headache,100
+Typhoid,nausea,100
+Typhoid,constipation,100
+Typhoid,abdominal pain,100
+Typhoid,diarrhoea,100
+Typhoid,toxic look (typhos),100
+Urinary Tract Infection,burning micturition,100
+Urinary Tract Infection,bladder discomfort,100
+Urinary Tract Infection,foul smell of urine,100
+Urinary Tract Infection,continuous feel of urine,100
+Varicose Veins,fatigue,100
+Varicose Veins,cramps,100
+Varicose Veins,bruising,100
+Varicose Veins,obesity,100
+Varicose Veins,swollen legs,100
+Varicose Veins,swollen blood vessels,100
+Varicose Veins,prominent veins on legs,100
