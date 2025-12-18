@@ -12,8 +12,6 @@ A robust desktop application for symptom-based disease diagnosis and medical adv
 
 ## 🚀 Quick Start 
 
-in terminal run:
-
 1.  **Install Dependencies**
     ```bash
     pip install matplotlib pandas #pip3 for some systems
