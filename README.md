@@ -7,6 +7,9 @@ A robust desktop application for symptom-based disease diagnosis and medical adv
 *   **AI Chatbot**: Integrated assistant to answer medical questions, identifying symptoms directly from chat.
 *   **Visual Enhancements**: Clean UI with recovery graphs and severity estimation.
 
+## sample
+![alt text](sample_image.png)
+
 ## 🚀 Quick Start 
 
 in terminal run:
@@ -23,3 +26,6 @@ in terminal run:
 
 ## ⚠️ Disclaimer
 **For educational purposes only.** Not a substitute for professional medical advice.
+
+
+[def]: image.png
