@@ -13,7 +13,13 @@ A robust desktop application for symptom-based disease diagnosis and medical adv
 ## 🚀 Quick Start 
 
 1.  **Install Dependencies**
+    Ensure you have the following installed:
+    *   **Tkinter**: Standard GUI library (included with Python).
+    *   **Matplotlib**: For visualization.
+    *   **Pandas**: For data processing.
+
     ```bash
+    pip install tkinter #pip3 for some systems
     pip install matplotlib pandas #pip3 for some systems
     ```
 
