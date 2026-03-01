@@ -4,7 +4,7 @@ import difflib
 from knowledge import symptom_to_diseases, disease_to_symptoms, disease_info
 from chatbot import MedicalChatbot
 import matplotlib.pyplot as plt
-
+  
 
 class SymptomCheckerApp:
     def __init__(self, root):
